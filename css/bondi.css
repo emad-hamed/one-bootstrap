@@ -157,6 +157,9 @@ p {
     border: none;
     border-bottom: 1px solid white;
 }
+.subscribe input[type="text"]:focus {
+    outline: none;
+}
 .subscribe input::placeholder {
     color: white;
     font-weight: 700;
